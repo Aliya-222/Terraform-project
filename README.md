@@ -1,2 +1,1 @@
-# Terraform-project
-Commit new file
+This is a conflicting change
